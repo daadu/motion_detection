@@ -2,7 +2,31 @@
 	"folders":
 	[
 		{
-			"path": "/var/www/motion_detection"
+			"path": "/home/harsh/projects"
+		},
+		{
+			"path": "/var/www"
+		},
+		{
+			"path": "/home/harsh/Desktop"
+		},
+		{
+			"path": "/home/harsh/data/projects-completed"
+		},
+		{
+			"path": "/home/harsh/data/Padhai/webP"
+		},
+		{
+			"path": "/home/harsh/melange"
+		},
+		{
+			"path": "/home/harsh/bookie"
+		},
+		{
+			"path": "/home/harsh/drawJS"
+		},
+		{
+			"path": "/home/harsh/getintonm"
 		}
 	]
 }
